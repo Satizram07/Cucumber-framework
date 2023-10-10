@@ -1,13 +1,10 @@
 package com.utilitys;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
-import org.apache.commons.io.FileUtils;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
@@ -15,7 +12,7 @@ import org.openqa.selenium.support.ui.Select;
 import com.Constants.Constants;
 import com.PageObjects.AdminPage;
 import com.PageObjects.Loginpage;
-
+//common utilities class
 public class CommonUtilities {
 	public static CommonUtilities commoninstance;
 
