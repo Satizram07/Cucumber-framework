@@ -1,0 +1,34 @@
+2023-10-02 18:35:09,633 [INFO ] com.StepDefinitions.CommonstepDefinition [main] execution stated
+2023-10-02 18:35:17,670 [INFO ] com.utilitys.Webdriver [main] chrome driver started
+2023-10-02 18:35:17,671 [INFO ] com.StepDefinitions.CommonstepDefinition [main] Execution Started
+2023-10-02 18:35:17,699 [INFO ] com.StepDefinitions.CommonstepDefinition [main] pagefactory initialized the webelement
+2023-10-02 18:35:21,582 [INFO ] com.StepDefinitions.Banking [main] URL launced successfully
+2023-10-02 18:35:27,985 [ERROR] com.StepDefinitions.Banking [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//div[@role='option'])[3]"}
+  (Session info: chrome=117.0.5938.132)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a50053aacc16ab8acf9e189310beb4a, findElement {using=xpath, value=(//div[@role='option'])[3]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.132, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\ACER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56306}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56306/devtoo..., se:cdpVersion: 117.0.5938.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a50053aacc16ab8acf9e189310beb4a
+2023-10-02 18:35:28,458 [INFO ] com.StepDefinitions.CommonstepDefinition [main] execution stated
+2023-10-02 18:35:45,892 [ERROR] com.StepDefinitions.adminSelection [main] no such element: Unable to locate element: {"method":"xpath","selector":"(//*[@id='dummy'])[3]"}
+  (Session info: chrome=117.0.5938.132)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a50053aacc16ab8acf9e189310beb4a, findElement {using=xpath, value=(//*[@id='dummy'])[3]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.132, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\ACER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56306}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56306/devtoo..., se:cdpVersion: 117.0.5938.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a50053aacc16ab8acf9e189310beb4a
+2023-10-02 18:35:46,435 [INFO ] com.StepDefinitions.CommonstepDefinition [main] execution stated
+2023-10-02 18:36:01,735 [ERROR] com.StepDefinitions.adminSelection [main] no such element: Unable to locate element: {"method":"xpath","selector":"(//*[@id='dummy'])[3]"}
+  (Session info: chrome=117.0.5938.132)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a50053aacc16ab8acf9e189310beb4a, findElement {using=xpath, value=(//*[@id='dummy'])[3]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.132, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\ACER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56306}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56306/devtoo..., se:cdpVersion: 117.0.5938.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a50053aacc16ab8acf9e189310beb4a
